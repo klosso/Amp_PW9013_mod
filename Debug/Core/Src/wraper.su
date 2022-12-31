@@ -1,0 +1,6 @@
+wraper.cpp:16:10:uint16_t readAnalog(ADC_HandleTypeDef*, uint32_t)	32	static
+wraper.cpp:30:6:void wraper()	8	static
+wraper.cpp:37:6:void loop()	4	static
+wraper.cpp:42:1:void __static_initialization_and_destruction_0(int, int)	16	static
+wraper.cpp:42:1:cpp)	8	static
+wraper.cpp:42:1:cpp)	8	static

@@ -1,0 +1,3 @@
+mojaA.cpp:11:1:mojaA::mojaA()	16	static
+mojaA.cpp:16:1:mojaA::~mojaA()	16	static
+mojaA.cpp:16:1:virtual mojaA::~mojaA()	16	static

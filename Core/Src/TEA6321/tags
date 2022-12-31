@@ -1,0 +1,49 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BASS	tea6321.hpp	/^enum tone_t{ BASS=0, MIDD, TRBL };$/;"	e	enum:tone_t
+BASS_SAD	tea6321.hpp	17;"	d
+FFL_SAD	tea6321.hpp	14;"	d
+FFR_SAD	tea6321.hpp	13;"	d
+FRL_SAD	tea6321.hpp	16;"	d
+FRR_SAD	tea6321.hpp	15;"	d
+I2C_ADDR	tea6321.hpp	4;"	d
+LOFF_BIT	tea6321.hpp	21;"	d
+MIDD	tea6321.hpp	/^enum tone_t{ BASS=0, MIDD, TRBL };$/;"	e	enum:tone_t
+SWCH_SAD	tea6321.hpp	19;"	d
+TEA6321	tea6321.cpp	/^TEA6321::TEA6321(void* _opq):opaque(_opq), _addr(I2C_ADDR)$/;"	f	class:TEA6321
+TEA6321	tea6321.hpp	/^class TEA6321$/;"	c
+TRBL	tea6321.hpp	/^enum tone_t{ BASS=0, MIDD, TRBL };$/;"	e	enum:tone_t
+TRBL_SAD	tea6321.hpp	18;"	d
+VOL_SAD	tea6321.hpp	12;"	d
+ZCM_BIT	tea6321.hpp	22;"	d
+_10000Hz	tea6321.hpp	/^enum trbl_fo_t{ _7500Hz=0, _10000Hz, _12500Hz, _15000Hz };$/;"	e	enum:trbl_fo_t
+_1000Hz	tea6321.hpp	/^enum midd_fo_t{ _500Hz=0, _1000Hz, _1500Hz, _2500Hz };$/;"	e	enum:midd_fo_t
+_100Hz	tea6321.hpp	/^enum bass_fo_t{ _60Hz=0, _80Hz, _100Hz, _120Hz };$/;"	e	enum:bass_fo_t
+_120Hz	tea6321.hpp	/^enum bass_fo_t{ _60Hz=0, _80Hz, _100Hz, _120Hz };$/;"	e	enum:bass_fo_t
+_12500Hz	tea6321.hpp	/^enum trbl_fo_t{ _7500Hz=0, _10000Hz, _12500Hz, _15000Hz };$/;"	e	enum:trbl_fo_t
+_15000Hz	tea6321.hpp	/^enum trbl_fo_t{ _7500Hz=0, _10000Hz, _12500Hz, _15000Hz };$/;"	e	enum:trbl_fo_t
+_1500Hz	tea6321.hpp	/^enum midd_fo_t{ _500Hz=0, _1000Hz, _1500Hz, _2500Hz };$/;"	e	enum:midd_fo_t
+_2500Hz	tea6321.hpp	/^enum midd_fo_t{ _500Hz=0, _1000Hz, _1500Hz, _2500Hz };$/;"	e	enum:midd_fo_t
+_500Hz	tea6321.hpp	/^enum midd_fo_t{ _500Hz=0, _1000Hz, _1500Hz, _2500Hz };$/;"	e	enum:midd_fo_t
+_60Hz	tea6321.hpp	/^enum bass_fo_t{ _60Hz=0, _80Hz, _100Hz, _120Hz };$/;"	e	enum:bass_fo_t
+_7500Hz	tea6321.hpp	/^enum trbl_fo_t{ _7500Hz=0, _10000Hz, _12500Hz, _15000Hz };$/;"	e	enum:trbl_fo_t
+_80Hz	tea6321.hpp	/^enum bass_fo_t{ _60Hz=0, _80Hz, _100Hz, _120Hz };$/;"	e	enum:bass_fo_t
+_addr	tea6321.hpp	/^    uint8_t _addr;$/;"	m	class:TEA6321
+bass_fo_t	tea6321.hpp	/^enum bass_fo_t{ _60Hz=0, _80Hz, _100Hz, _120Hz };$/;"	g
+init	tea6321.cpp	/^void TEA6321::init()$/;"	f	class:TEA6321
+loudness	tea6321.cpp	/^void TEA6321::loudness(bool on)$/;"	f	class:TEA6321
+midd_fo_t	tea6321.hpp	/^enum midd_fo_t{ _500Hz=0, _1000Hz, _1500Hz, _2500Hz };$/;"	g
+mute	tea6321.cpp	/^void TEA6321::mute(const bool mute)$/;"	f	class:TEA6321
+opaque	tea6321.hpp	/^    void* opaque;$/;"	m	class:TEA6321
+set_bass	tea6321.cpp	/^void TEA6321::set_bass(int8_t val)$/;"	f	class:TEA6321
+set_input	tea6321.cpp	/^void TEA6321::set_input(uint8_t inp)$/;"	f	class:TEA6321
+set_trbl	tea6321.cpp	/^void TEA6321::set_trbl(int8_t val)$/;"	f	class:TEA6321
+set_vol	tea6321.cpp	/^void TEA6321::set_vol(int8_t vol)$/;"	f	class:TEA6321
+tone_t	tea6321.hpp	/^enum tone_t{ BASS=0, MIDD, TRBL };$/;"	g
+trbl_fo_t	tea6321.hpp	/^enum trbl_fo_t{ _7500Hz=0, _10000Hz, _12500Hz, _15000Hz };$/;"	g
+vol_wrd	tea6321.hpp	/^    uint8_t vol_wrd;$/;"	m	class:TEA6321
+write	tea6321.hpp	/^    virtual uint8_t write(uint8_t subbadr, uint8_t data)$/;"	f	class:TEA6321

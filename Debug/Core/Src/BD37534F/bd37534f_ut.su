@@ -1,0 +1,4 @@
+bd37534f_ut.cpp:18:5:STM_Bd::STM_Bd(void*)	16	static
+bd37534f_ut.cpp:20:17:virtual int STM_Bd::write_drv(uint8_t)	16	static
+bd37534f_ut.cpp:15:7:STM_Bd::~STM_Bd()	16	static
+bd37534f_ut.cpp:28:5:int main(int, char**)	40	static

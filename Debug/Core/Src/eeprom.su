@@ -1,0 +1,12 @@
+exception.h:63:5:std::exception::exception()	16	static
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+eeprom.cpp:39:6:void FLASH_Program_HalfWord(uint32_t, uint16_t)	24	static
+eeprom.cpp:45:6:void FLASH_ErasePage(uint32_t)	48	static
+eeprom.cpp:54:6:void FLASH_transfer_page(uint32_t, uint32_t)	32	static
+eeprom.cpp:85:20:FlashStatusTypeDef EE_Init()	24	static
+eeprom.cpp:162:20:FlashStatusTypeDef EE_ReadVariable(uint16_t, uint16_t*)	40	static
+eeprom.cpp:201:20:FlashStatusTypeDef EE_WriteVariable(uint16_t, uint16_t)	40	static
+eeprom.cpp:228:6:void EE_Format()	8	static
+eeprom.cpp:244:10:uint16_t EE_FindValidPage(operationValidPageT)	32	static
+eeprom.cpp:283:6:void EE_VerifyPageFullWriteVariable(uint16_t, uint16_t)	40	static
+eeprom.cpp:319:20:FlashStatusTypeDef EE_PageTransfer(uint16_t, uint16_t)	32	static

@@ -1,0 +1,32 @@
+bd37534f.hpp:26:14:virtual int Bd37534f::write_drv(uint8_t, uint8_t)	16	static
+new:173:33:void* operator new(std::size_t, void*)	16	static
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+std_function.h:87:17:void* std::_Any_data::_M_access()	16	static
+std_function.h:88:17:const void* std::_Any_data::_M_access() const	16	static
+std_function.h:255:5:std::_Function_base::_Function_base()	16	static
+std_function.h:257:5:std::_Function_base::~_Function_base()	16	static
+main2.cpp:66:18:InputSrcT get_input_src()	4	static
+main2.cpp:73:5:int prescaler(long int, long int, long int, long int, int)	24	static
+main2.cpp:81:5:MixerBD::MixerBD(void*)	16	static
+main2.cpp:85:17:virtual int MixerBD::write(uint8_t, uint8_t)	40	static
+main2.cpp:93:6:void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef*)	16	static
+main2.cpp:108:6:void swHighPressed()	4	static
+main2.cpp:112:6:void swLowPressed()	4	static
+main2.cpp:78:7:MixerBD::~MixerBD()	16	static
+std_function.h:369:11:std::function<void()>::~function()	16	static
+CFPushButton.h:24:7:CFPushButton::~CFPushButton()	16	static
+main2.cpp:122:5:int main()	880	static
+std_function.h:667:7:)>::function(_Functor) [with _Functor = void (*)(); <template-parameter-2-2> = void; <template-parameter-2-3> = void; _Res = void; _ArgTypes = {}]	24	static
+std_function.h:232:4:static bool std::_Function_base::_Base_manager<_Functor>::_M_not_empty_function(_Tp*) [with _Tp = void(); _Functor = void (*)()]	16	static
+move.h:99:5:constexpr typename std::remove_reference<_Tp>::type&& std::move(_Tp&&) [with _Tp = void (*&)()]	16	static
+std_function.h:222:2:static void std::_Function_base::_Base_manager<_Functor>::_M_init_functor(std::_Any_data&, _Functor&&) [with _Functor = void (*)()]	32	static
+std_function.h:298:7:) [with _Functor = void (*)(); _ArgTypes = {}]	16	static
+std_function.h:196:2:static bool std::_Function_base::_Base_manager<_Functor>::_M_manager(std::_Any_data&, const std::_Any_data&, std::_Manager_operation) [with _Functor = void (*)()]	40	static
+std_function.h:247:2:static void std::_Function_base::_Base_manager<_Functor>::_M_init_functor(std::_Any_data&, _Functor&&, std::true_type) [with _Functor = void (*)()]	32	static
+std_function.h:151:2:static _Functor* std::_Function_base::_Base_manager<_Functor>::_M_get_pointer(const std::_Any_data&) [with _Functor = void (*)()]	24	static
+std_function.h:92:7:_Tp& std::_Any_data::_M_access() [with _Tp = void (**)()]	16	static
+std_function.h:165:2:static void std::_Function_base::_Base_manager<_Functor>::_M_clone(std::_Any_data&, const std::_Any_data&, std::true_type) [with _Functor = void (*)()]	32	static
+std_function.h:182:2:static void std::_Function_base::_Base_manager<_Functor>::_M_destroy(std::_Any_data&, std::true_type) [with _Functor = void (*)()]	16	static
+std_function.h:97:7:const _Tp& std::_Any_data::_M_access() const [with _Tp = void (*)()]	16	static
+move.h:47:5:constexpr _Tp* std::__addressof(_Tp&) [with _Tp = void (* const)()]	16	static
+std_function.h:92:7:_Tp& std::_Any_data::_M_access() [with _Tp = void (*)()]	16	static

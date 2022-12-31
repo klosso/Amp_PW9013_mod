@@ -1,0 +1,14 @@
+/opt/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.100.202210260954/tools/arm-none-eabi/include/c++/10.3.1/bits/exception.h:63:5:std::exception::exception()	16	static
+/opt/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.100.202210260954/tools/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7-m/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../Core/Src/Eeprom_class_exc.cpp:30:1:FlashHandlers::FlashHandlers(uint32_t, uint32_t)	24	static
+../Core/Src/Eeprom_class_exc.cpp:33:6:void FlashHandlers::programHalfWord(uint32_t, uint16_t)	32	static
+../Core/Src/Eeprom_class_exc.cpp:39:6:void FlashHandlers::erasePage(uint32_t)	48	static
+../Core/Src/Eeprom_class_exc.cpp:48:6:void Eeprom::transferPage(uint32_t, uint32_t)	40	static
+../Core/Src/Eeprom_class_exc.cpp:76:6:void FlashHandlers::format()	16	static
+../Core/Src/Eeprom_class_exc.cpp:91:1:Eeprom::Eeprom(uint8_t)	16	static
+../Core/Src/Eeprom_class_exc.cpp:98:20:FlashStatusTypeDef Eeprom::init()	32	static
+../Core/Src/Eeprom_class_exc.cpp:173:20:FlashStatusTypeDef Eeprom::readVariable(uint16_t, uint16_t*)	48	static
+../Core/Src/Eeprom_class_exc.cpp:212:20:FlashStatusTypeDef Eeprom::writeVariable(uint16_t, uint16_t)	40	static
+../Core/Src/Eeprom_class_exc.cpp:245:10:uint16_t Eeprom::findValidPage(operationValidPageT)	32	static
+../Core/Src/Eeprom_class_exc.cpp:284:6:void Eeprom::verifyPageFullWriteVariable(uint16_t, uint16_t)	40	static
+../Core/Src/Eeprom_class_exc.cpp:320:20:FlashStatusTypeDef Eeprom::pageTransfer(uint16_t, uint16_t)	32	static

@@ -1,0 +1,12 @@
+../Core/Src/HAL_init.c:32:6:HAL_Init_Peryf	8	static
+../Core/Src/HAL_init.c:53:6:MX_DMA_Init	16	static
+../Core/Src/HAL_init.c:124:6:SystemClock_Config	88	static
+../Core/Src/HAL_init.c:175:6:MX_ADC1_Init	24	static
+../Core/Src/HAL_init.c:252:6:MX_I2C2_Init	8	static
+../Core/Src/HAL_init.c:272:6:MX_RTC_Init	16	static
+../Core/Src/HAL_init.c:307:6:MX_SPI2_Init	8	static
+../Core/Src/HAL_init.c:331:6:MX_TIM2_Init	56	static
+../Core/Src/HAL_init.c:365:6:MX_TIM3_Init	48	static
+../Core/Src/HAL_init.c:473:6:MX_USART1_UART_Init	8	static
+../Core/Src/HAL_init.c:492:7:MX_GPIO_Init	40	static
+../Core/Src/HAL_init.c:535:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,12 @@
+/opt/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.100.202210260954/tools/arm-none-eabi/include/c++/10.3.1/bits/exception.h:63:5:std::exception::exception()	16	static
+/opt/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.100.202210260954/tools/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7-m/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../Core/Src/eeprom_exc.cpp:39:6:void FLASH_Program_HalfWord(uint32_t, uint16_t)	24	static
+../Core/Src/eeprom_exc.cpp:45:6:void FLASH_ErasePage(uint32_t)	48	static
+../Core/Src/eeprom_exc.cpp:54:6:void FLASH_transfer_page(uint32_t, uint32_t)	32	static
+../Core/Src/eeprom_exc.cpp:85:20:FlashStatusTypeDef EE_Init()	24	static
+../Core/Src/eeprom_exc.cpp:162:20:FlashStatusTypeDef EE_ReadVariable(uint16_t, uint16_t*)	40	static
+../Core/Src/eeprom_exc.cpp:201:20:FlashStatusTypeDef EE_WriteVariable(uint16_t, uint16_t)	40	static
+../Core/Src/eeprom_exc.cpp:228:6:void EE_Format()	8	static
+../Core/Src/eeprom_exc.cpp:244:10:uint16_t EE_FindValidPage(operationValidPageT)	32	static
+../Core/Src/eeprom_exc.cpp:283:6:void EE_VerifyPageFullWriteVariable(uint16_t, uint16_t)	40	static
+../Core/Src/eeprom_exc.cpp:319:20:FlashStatusTypeDef EE_PageTransfer(uint16_t, uint16_t)	32	static
